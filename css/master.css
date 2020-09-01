@@ -5,7 +5,7 @@ h1 {
     margin: 0;
 }
 .top-module {
-    background-color: red;
+    background-color: blue;
     height: 27.333vh;
     padding: 3vh;
 }
@@ -15,7 +15,7 @@ h1 {
     padding: 3vh;
 }
 .bottom-module {
-    background-color: blue;
+    background-color: red;
     height: 27.333vh;
     padding: 3vh;
 }
