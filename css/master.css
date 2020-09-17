@@ -1,21 +1,19 @@
 body {
     margin: 0;
 }
-h1 {
-    margin: 0;
-}
-.top-module {
-    background-color: blue;
-    height: 27.333vh;
-    padding: 3vh;
-}
-.middle-module {
-    background-color: green;
-    height: 27.333vh;
-    padding: 3vh;
-}
+/* .module1 {
 
-.bottom-module {
-    height: 27.333vh;
-    padding: 3vh;
+} */
+h1 {
+    display: inline-block;
+    width: 33%;
+    margin: 0 2% 15%;
+    vertical-align: bottom;
+    font-family: 'Montserrat',sans-serif;
+    color: #7B9E0E;
+    font-size: 400%;
+    text-align: right;
+}
+.home-img {
+    width: 60%;
 }
