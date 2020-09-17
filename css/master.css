@@ -1,19 +1,73 @@
 body {
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
 }
-/* .module1 {
-
-} */
+.module1 {
+    background-color: #fff;
+    margin-bottom: -5px;
+}
 h1 {
     display: inline-block;
     width: 33%;
     margin: 0 2% 15%;
     vertical-align: bottom;
-    font-family: 'Montserrat',sans-serif;
+    font-family: 'Eczar', serif;
     color: #7B9E0E;
-    font-size: 300%;
+    font-size: 5.5vw;
+    font-weight: 500;
     text-align: right;
+    line-height: 1;
 }
 .home-img {
     width: 60%;
+}
+.module2 {
+    background-color: #ff6500;
+    text-align: center;
+}
+.homemade, .chemicalsfree {
+    display: inline-block;
+    width: 37vw;
+    padding: 5vw;
+    font-size: 2vw;
+}
+.c5, .c6 {
+    width: 15vw;
+    height: 15vw;
+}
+.module3 {
+    background-color: #fff;
+    text-align: center;
+}
+.types, .flavours {
+    display: inline-block;
+    width: 31vw;
+    padding: 5vw 8vw;
+    font-size: 2vw;
+    text-align: left;
+}
+
+.list-heading {
+    color: #ff6500;
+    font-weight: bold;
+    font-size: 4vw;
+}
+.list-items {
+    font-size: 3vw;
+}
+h2 {
+    font-size: 3vw;
+}
+.module4 {
+    background-color: #ff6500;
+    text-align: center;
+    padding: 3vw 20vw;
+}
+.ordernow {
+    color: #fff;
+}
+.contactno {
+    font-size: 3vw;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
